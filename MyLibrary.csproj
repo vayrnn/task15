@@ -1,0 +1,4 @@
+<ItemGroup>
+    <EmbeddedResource Include="Properties\Resources.resx" />
+    <EmbeddedResource Include="Properties\Resources.Designer.cs" />
+</ItemGroup>
